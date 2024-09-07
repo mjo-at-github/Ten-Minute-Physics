@@ -1,4 +1,4 @@
-# Ten-Minute-Physics 01
+# Ten Minute Physics 01
 
 Odin language implementation of Ten Minute Physics 01 
 
