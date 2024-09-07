@@ -14,4 +14,4 @@ https://odin-lang.org/
 
 #### Raylib
 
-https://www.raylib.com/examples.html
+https://www.raylib.com
