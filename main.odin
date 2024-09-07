@@ -27,8 +27,8 @@ pos: Position,
 vel: Velocity,
 }
 
-width: f32 = 720.0
-height: f32 = 720.0
+width: f32 = 800.0
+height: f32 = 800.0
 title: cstring = ""
 
 simMinWidth: f32 = 20.0
